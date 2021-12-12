@@ -1,3 +1,8 @@
 This is the first second sentence to practice in the second file
 Interesting 
 I made another change on Monday 29 November 2021
+<<<<<<< Updated upstream
+=======
+I am again looking at this file on 8 December 2021
+12/12/2021
+>>>>>>> Stashed changes
